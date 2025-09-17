@@ -20,14 +20,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'diegomiranda1310@gmail.com';  // coloque seu Gmail aqu
-        $mail->Password   = 'huow ubkl fhwi ktes';    // senha de app que você gerou
+        $mail->Username   = 'diego@teste.com';  
+        $mail->Password   = ' ';    
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;    
 
         // Remetente e destinatário
-        $mail->setFrom('diegomiranda1310@gmail.com', 'Formulário DoeLeitura');
-        $mail->addAddress('diegomirandadasilva1310@gmail.com'); // seu Gmail de teste
+        $mail->setFrom('diego@teste2.com', 'Formulário DoeLeitura');
+        $mail->addAddress('diego@teste.com'); 
 
         // Conteúdo do e-mail
         $mail->isHTML(true);
