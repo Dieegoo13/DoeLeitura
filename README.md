@@ -46,4 +46,11 @@ git clone https://github.com/Dieegoo13/DoeLeitura
 2️⃣ Instale um servidor local
 Baixe e instale XAMPP ou WAMP
 
+<h2 id="preview">📸 Preview do Projeto</h2>
+
+![Home Page Mobile](./img/DoeLeituraMovel1.png)  
+![Formulário Mobile](./img/DoeLeituraMovel2.png)  
+
+![Home Page Desktop](./img/HomePage.png)  
+
 
