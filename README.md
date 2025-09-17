@@ -48,9 +48,13 @@ Baixe e instale XAMPP ou WAMP
 
 <h2 id="preview">📸 Preview do Projeto</h2>
 
+Tela Home Page Mobile:
 ![Home Page Mobile](./img/DoeLeituraMovel1.png)  
+
+Tela Formulário Mobile:
 ![Formulário Mobile](./img/DoeLeituraMovel2.png)  
 
+Tela Desktop:
 ![Home Page Desktop](./img/HomePage.png)  
 
 
